@@ -13,3 +13,4 @@ class GetTweetsQueryParams {
             "limit": this.limit
         }
     }
+}
